@@ -48,7 +48,7 @@ def getArticleText(url, className):
     if(len(titleEles) >= 1):
        
         print("save file:" + titleEles[0].text)
-        fileName = "./24hData/post%s.txt" % str(len(articleUrls))
+        fileName = "./24hData/post%s.txt" % str(len(articleUrls) + 19)
         f = codecs.open(fileName, "a","utf-8")
         for e in h1Elements:
             f.write(e.text + " ")
