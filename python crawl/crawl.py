@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import codecs
-import uuid
+from utils import getCurrentNumberOfArticle
 
 headers = {
     'Access-Control-Allow-Origin': '*',
@@ -15,26 +15,14 @@ url24h = "https://www.24h.com.vn"
 urlVnexpress = "https://vnexpress.net"
 urlDantri = "https://dantri.com.vn"
 urlYoutube = "https://www.youtube.com"
-urlFB = "https://www.facebook.com"
 
-# req = requests.get(url24h, headers)
-# soup = BeautifulSoup(req.content, 'html.parser')
-# data = soup.find_all('a')
-# for item in data:
-#     href = item['href']
-#     if(href.find(url24h) == -1 and href[0] == "/" and href.find("html") != -1):
-#         item['href'] = url24h + item['href']
-#     print(item['href'])
-
-
-max = 3
-
-# linksFile = codecs.open("./data.txt", "a","utf-8")
-
+maxLevelOfRecursion = 3
 
 listUrl = [] #all urls from news website
 articleUrls = [] ## urls from articles only
+currentArticleNumber = getCurrentNumberOfArticle()
 
+## get text in a article
 def getArticleText(url, className):
     
     req = requests.get(url, headers)
@@ -48,7 +36,7 @@ def getArticleText(url, className):
     if(len(titleEles) >= 1):
        
         print("save file:" + titleEles[0].text)
-        fileName = "./24hData/post%s.txt" % str(len(articleUrls) + 19)
+        fileName = "./24hData/post%s.txt" % str(len(articleUrls) + currentArticleNumber)
         f = codecs.open(fileName, "a","utf-8")
         for e in h1Elements:
             f.write(e.text + " ")
@@ -68,6 +56,7 @@ def getArticleText(url, className):
         urlsFile.close()
  
 
+## traversal urls in news website using recursion
 def getNewsUrlFromUrl(url, mainUrl, maxUrlLevel):
     if(maxUrlLevel > 0):
         req = requests.get(url, headers)
@@ -95,9 +84,7 @@ def getNewsUrlFromUrl(url, mainUrl, maxUrlLevel):
                         getNewsUrlFromUrl(item['href'], mainUrl ,maxUrlLevel-1)
               
     else:
-
         return
 
-getNewsUrlFromUrl(url24h, url24h, max)
+getNewsUrlFromUrl(url24h, url24h, maxLevelOfRecursion)
 
-# getArticleText("https://www.24h.com.vn/bong-da/dt-viet-nam-cho-thai-lan-hit-khoi-bang-xep-hang-bat-ngo-doi-dong-nam-a-tien-bo-nhat-c48a1371518.html","article_title")
