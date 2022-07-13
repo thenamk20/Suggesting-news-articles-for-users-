@@ -1,0 +1,21 @@
+
+            Hơn 50 chương trình chống virus bị phần mềm độc hại này qua mặt         
+
+                Một phần mềm độc hại mới đang sử dụng cách “núp bóng” dưới tệp ISO để tránh bị phát hiện.            
+ Công nghệ thông tin Theo TechRadar, các nhà nghiên cứu đã phát hiện ra một mẫu phần mềm độc hại mới có khả năng qua mặt được hơn 50 chương trình chống virus hiện có trên thị trường. Phần mềm độc hại được phát hiện bởi các nhà nghiên cứu an ninh mạng từ Unit 42, đội ngũ tình báo về mối đe dọa tại Palo Alto Networks. Nhóm nghiên cứu lần đầu tiên phát hiện nó vào tháng 5, khi biết được nó được tạo ra bằng công cụ Brute Ratel (BRC4). Các nhà phát triển của BRC4 được biết đã sử dụng khả năng thiết kế ngược để giúp phần mềm độc hại này không bị phát hiện bởi các chương trình chống virus phổ biến. Dựa vào chất lượng và tốc độ mà phần mềm độc hại này được phân phối giữa các thiết bị đầu cuối của nạn nhân, các nhà nghiên cứu cho rằng nó được hậu thuẫn bởi một cơ quan chính phủ. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Phần mềm độc hại mới đang vượt qua hơn 50 chương trình chống virus phổ biến. Phần mềm độc hại đang được phát tán dưới dạng một tài liệu CV giả. CV là một tệp ISO, sau khi được mount vào ổ đĩa ảo nó sẽ hiển thị giống như tài liệu Microsoft Word. Trong khi các nhà nghiên cứu vẫn chưa thể xác định chính xác ai là tác nhân đe dọa đằng sau BRC4, họ nghi ngờ nhóm APT29 (AKA Cozy Bear) có trụ sở tại Nga, đã từng sử dụng phương thức tấn công bằng tệp ISO được “vũ khí hóa” trong quá khứ. Một gợi ý khác cho thấy rằng một tác nhân đe dọa do nhà nước tài trợ đang tận dụng hiệu năng BRC4 phiên bản mới đang có để triển khai chiến dịch tấn công. Vì tệp ISO được tạo cùng ngày phiên bản BRC4 mới nhất vừa được xuất bản. Các nhà nghiên cứu cũng nhấn mạnh rằng các nhà cung cấp bảo mật bắt buộc phải tạo ra các biện pháp bảo vệ để phát hiện BRC4 và tất cả các tổ chức phải thực hiện các biện pháp chủ động để chống lại công cụ này. Nguồn: http://danviet.vn/hon-50-chuong-trinh-chong-virus-bi-phan-mem-doc-hai-nay-qua-mat-50202287102027...Nguồn: http://danviet.vn/hon-50-chuong-trinh-chong-virus-bi-phan-mem-doc-hai-nay-qua-mat-50202287102027883.htm Tin tặc tuyên bố họ đã đánh cắp dữ liệu của cảnh sát về một tỉ công dân Trung Quốc, trong đó có cả các báo cáo tội phạm từ năm 1995.   Cơ quan chủ quản: Công ty Cổ phần Quảng cáo Trực tuyến 24H Trụ sở: Tầng 12, Tòa nhà Geleximco, 36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, TP Hà Nội. Tel: (84-24) 73 00 24 24 hoặc (84-24) 3512 1806 - Fax: (84-24) 3512 1804. Chi nhánh: Tầng 7, Tòa nhà Việt Úc, 402 Nguyễn Thị Minh Khai, Phường 5, Quận 3, TP. Hồ Chí Minh. Tel: (84-28) 7300 2424 / Giấy phép số 332/GP – TT ĐT ngày cấp 22/01/2018 SỞ THÔNG TIN VÀ TRUYỀN THÔNG HÀ NỘI. Chịu trách nhiệm xuất bản: Phan Minh Tâm. HOTLINE: 0965 08 24 24 

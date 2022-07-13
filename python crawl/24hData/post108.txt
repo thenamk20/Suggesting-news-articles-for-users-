@@ -1,0 +1,37 @@
+
+            iOS 16 sẽ khiến iPhone trở thành thiết bị "bất khả xâm phạm"         
+
+                Apple đã thông báo rằng họ sẽ thêm một tính năng mới có tên Lockdown Mode cho iPhone, iPad và Mac qua bản cập nhật sắp tới.            
+ Công nghệ thông tin Lockdown Mode được phát triển để ngăn những kẻ tấn công khai thác lỗ hổng được phát hiện trong phần mềm của Apple, điều mà ít nhất hai công ty Israel đã khai thác lỗ hổng này và có thể đột nhập vào các mẫu iPhone từ xa mà không cần người dùng iPhone mục tiêu chạm vào nút nào trên màn hình. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Về cơ bản, kích hoạt Lockdown Mode sẽ chặn hầu hết các tập tin đính kèm được gửi đến ứng dụng tin nhắn của iPhone. Đây là cách mà các phần mềm như Pegasus đã sử dụng cho các cuộc tấn công nhằm vào lỗ hổng có trên iMessage trong thời gian qua Bên cạnh việc chặn tệp đính kèm tin nhắn, việc bật Lockdown Mode sẽ chặn xem trước liên kết, chặn lời mời và cuộc gọi Face Time từ những người gửi không xác định. Tính năng này cũng sẽ tắt một số công nghệ duyệt web theo mặc định, tắt kết nối có dây với máy tính,... Do đó, Lockdown Mode sẽ bảo vệ những người làm những công việc trở thành mục tiêu cao, những người có thể bị phần mềm gián điệp nhắm mục tiêu, các vị trí nhạy cảm (như chính trị gia, nhà hoạt động hay nhà báo). Apple chỉ ra rằng Lockdown Mode là một chế độ bảo vệ tùy chọn chỉ nên được sử dụng nếu người dùng tin rằng mình có thể bị nhắm mục tiêu cá nhân bởi một cuộc tấn công mạng rất tinh vi. Công ty cho biết hầu hết mọi người không bao giờ bị nhắm mục tiêu bởi các cuộc tấn công như vậy. Cũng theo Apple, khi iPhone ở trạng thái Lockdown Mode, nó sẽ không hoạt động như bình thường khi các ứng dụng, trang web và tính năng sẽ bị giới hạn nghiêm ngặt về bảo mật và một số trải nghiệm sẽ hoàn toàn không khả dụng.  “Apple tạo ra các thiết bị di động an toàn nhất trên thị trường. Lockdown Mode là một tính năng đột phá phản ánh cam kết kiên định của chúng tôi trong việc bảo vệ người dùng khỏi các cuộc tấn công dù là hiếm nhất và tinh vi nhất. Trong khi đại đa số người dùng sẽ không bao giờ là nạn nhân của các cuộc tấn công mạng có mục tiêu cao, chúng tôi sẽ làm việc không mệt mỏi để bảo vệ một số lượng nhỏ người dùng”, công ty cho biết. Lockdown Mode sẽ là tùy chọn cho người dùng iOS 16, iPadOS 16 và macOS Ventura. Apple cho biết theo thời gian họ sẽ tăng cường khả năng của Lockdown Mode và thêm nhiều biện pháp bảo vệ hơn cho người dùng. 
+Nguồn: http://danviet.vn/ios-16-se-khien-iphone-tro-thanh-thiet-bi-bat-kha-xam-pham-50202277162926816.h...Nguồn: http://danviet.vn/ios-16-se-khien-iphone-tro-thanh-thiet-bi-bat-kha-xam-pham-50202277162926816.htm
+
+
+
+
+
+
+
+Tính năng ẩn trên iOS 16 giúp “tách” chủ thể ra khỏi ảnh nền cực đỉnh
+
+iOS 16 đã được giới thiệu rộng rãi kể từ sau WWDC 2022, nhưng các tính năng Apple không công bố của hệ điều hành này vẫn còn “ẩn thân” đâu đó iPhone.
+
+Bấm xem >>
+
+
+  Nguồn: http://danviet.vn/ios-16-se-khien-iphone-tro-thanh-thiet-bi-bat-kha-xam-pham-50202277162926816.h...Nguồn: http://danviet.vn/ios-16-se-khien-iphone-tro-thanh-thiet-bi-bat-kha-xam-pham-50202277162926816.htm iOS 16 đã được giới thiệu rộng rãi kể từ sau WWDC 2022, nhưng các tính năng Apple không công bố của hệ điều hành này vẫn còn “ẩn thân” đâu đó iPhone.   Cơ quan chủ quản: Công ty Cổ phần Quảng cáo Trực tuyến 24H Trụ sở: Tầng 12, Tòa nhà Geleximco, 36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, TP Hà Nội. Tel: (84-24) 73 00 24 24 hoặc (84-24) 3512 1806 - Fax: (84-24) 3512 1804. Chi nhánh: Tầng 7, Tòa nhà Việt Úc, 402 Nguyễn Thị Minh Khai, Phường 5, Quận 3, TP. Hồ Chí Minh. Tel: (84-28) 7300 2424 / Giấy phép số 332/GP – TT ĐT ngày cấp 22/01/2018 SỞ THÔNG TIN VÀ TRUYỀN THÔNG HÀ NỘI. Chịu trách nhiệm xuất bản: Phan Minh Tâm. HOTLINE: 0965 08 24 24 
